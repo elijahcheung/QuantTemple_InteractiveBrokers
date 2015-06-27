@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ASCII"?>
+<!DOCTYPE PRJ SYSTEM "QuantTrade_InteractiveBrokers.Junjies-MacBook-Pro.Elijah.dtd">
+<PRJ>
+  <Folder Name="">
+    <Expand>0</Expand>
+  </Folder>
+  <Folder Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/src/">
+    <Expand>1</Expand>
+  </Folder>
+  <Folder Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/Shared/">
+    <Expand>1</Expand>
+  </Folder>
+  <Folder Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/QuantClient/">
+    <Expand>1</Expand>
+  </Folder>
+  <Project_Information>
+    <Project_Start>13000000010000000B00000018000000050000007300000003000000AE000000000000000100000080700000000000001C4182040100000035</Project_Start>
+  </Project_Information>
+  <Folder Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/bin/">
+    <Expand>1</Expand>
+  </Folder>
+  <Active_Settings>
+    <Active_File_Display_Mode>-1</Active_File_Display_Mode>
+  </Active_Settings>
+</PRJ>

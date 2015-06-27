@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?>
+<!DOCTYPE PRJ SYSTEM "QuantTrade_InteractiveBrokers.dtd">
+<PRJ>
+  <Project_Information>
+    <Use_Relative_Dir>1</Use_Relative_Dir>
+    <Relative_to_Project_File>1</Relative_to_Project_File>
+    <Include_Sub_Dir>1</Include_Sub_Dir>
+    <Create_Tagfile>0</Create_Tagfile>
+    <Filter/>
+    <CTags_Support>0</CTags_Support>
+    <Word_File/>
+    <Project_Directory>/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers</Project_Directory>
+    <Tag_File/>
+  </Project_Information>
+  <Project_ID>
+    <Signature>UE Proj: v.1</Signature>
+  </Project_ID>
+  <Files>
+    <File>/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/src/</File>
+    <File>/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/Shared/</File>
+    <File>makefile</File>
+    <File>/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/bin/</File>
+  </Files>
+  <Group_Filter>
+    <OF Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/src/">*.*</OF>
+    <OF Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/Shared/">*.*</OF>
+    <OF Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/QuantClient/">*.*</OF>
+    <OF Name="/Users/Elijah/Library/Mobile Documents/com~apple~CloudDocs/QuantTrade_InteractiveBrokers/bin/">*.*</OF>
+  </Group_Filter>
+</PRJ>
